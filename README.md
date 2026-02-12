@@ -16,15 +16,6 @@ A full-featured machine learning pipeline for predicting house prices, combining
 
 ## 📊 Dataset
 
-- Dataset size: ~10,000 records (adjust to your dataset size)  
-- Columns include: `square_feet`, `num_bedrooms`, `num_bathrooms`, `location`, `year_built`, `lot_size`, etc.  
-- Dataset source: [Specify source here, e.g., Kaggle or synthetic]
+- Dataset size: ~10,000 records
+- Columns include: `square_feet`, `num_bedrooms`, `num_bathrooms`, `location`, `year_built`, `lot_size`, etc.
 
----
-
-## 🛠️ Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/BlueprintML.git
-   cd BlueprintML
